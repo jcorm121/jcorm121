@@ -1,4 +1,12 @@
-## Hi there 👋
+# Cormac Kennedy
+
+CS student at Cornell and swarm defense researcher. Experience in robotics, AI research, and full-stack web development. Skilled in ROS2, tracking and SLAM algorithms, and agentic systems, with proven leadership and published research experience.
+
+## Let’s Connect
+
+Currently open to FY27 internships!
+
+[LinkedIn]([https://www.linkedin.com/in/cj-kennedy/]) · [Email](mailto:[cormackennedy5@gmail.com])
 
 <!--
 **jcorm121/jcorm121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
