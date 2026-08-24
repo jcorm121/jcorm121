@@ -6,7 +6,7 @@ CS student at Cornell and swarm defense researcher. Experience in robotics, AI r
 
 Currently open to FY27 internships!
 
-[LinkedIn]([www.linkedin.com/in/cj-kennedy]) · [Email](mailto:[cormackennedy5@gmail.com])
+[LinkedIn](https://www.linkedin.com/in/cj-kennedy) · [Email](mailto:[cormackennedy5@gmail.com])
 
 <!--
 **jcorm121/jcorm121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
