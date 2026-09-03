@@ -8,6 +8,11 @@ Currently open to FY27 internships!
 
 [LinkedIn](https://www.linkedin.com/in/cj-kennedy) · [Email](mailto:[cormackennedy5@gmail.com])
 
+## Showcases
+Website built by me:
+[URL](www.cornellnexus.com)
+
+Working on more showcases.
 <!--
 **jcorm121/jcorm121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
