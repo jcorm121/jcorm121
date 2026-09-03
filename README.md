@@ -10,7 +10,7 @@ Currently open to FY27 internships!
 
 ## Showcases
 Website built by me:
-[URL](www.cornellnexus.com)
+[Cornell Nexus](www.cornellnexus.com)
 
 Working on more showcases.
 <!--
