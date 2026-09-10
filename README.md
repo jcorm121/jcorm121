@@ -9,6 +9,9 @@ Currently open to FY27 internships!
 [LinkedIn](https://www.linkedin.com/in/cj-kennedy) · [Email](mailto:[cormackennedy5@gmail.com])
 
 ## Showcases
+DNHacks 2026 project (Magellan AI):
+[Repo](https://github.com/donte-truong/magellan-ai) · [Showcase](https://magellan-14nk.onrender.com/)
+
 Website built by me:
 [Cornell Nexus](www.cornellnexus.com)
 
